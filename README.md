@@ -1,4 +1,9 @@
-Conector PS/2
+# Tipo de cables
+
+## Conector PS/2
+
+<img src="https://ae01.alicdn.com/kf/HTB13CLyHVXXXXb9XFXXq6xXFXXX0/221459994/HTB13CLyHVXXXXb9XFXXq6xXFXXX0.jpg" alt="conector PS/2" width="100"/>
+
 El motherboard dispone de dos puertos de este tipo, que se emplean para conectar el mouse (conector verde) y el teclado (conector violeta). Ambos son hembra, y cada uno cuenta con 6 pines.
 
 Puerto serie (COM) o RS232
