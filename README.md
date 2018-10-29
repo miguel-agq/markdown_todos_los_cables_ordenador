@@ -1,20 +1,35 @@
 # Tipo de cables
 
-## Conector PS/2
+1.1  Conector PS/2
 
-<img src="https://ae01.alicdn.com/kf/HTB13CLyHVXXXXb9XFXXq6xXFXXX0/221459994/HTB13CLyHVXXXXb9XFXXq6xXFXXX0.jpg" alt="conector PS/2" width="100"/>
+<img src="https://ae01.alicdn.com/kf/HTB13CLyHVXXXXb9XFXXq6xXFXXX0/221459994/HTB13CLyHVXXXXb9XFXXq6xXFXXX0.jpg" alt="conector PS/2" width="200"/>
 
 El motherboard dispone de dos puertos de este tipo, que se emplean para conectar el mouse (conector verde) y el teclado (conector violeta). Ambos son hembra, y cada uno cuenta con 6 pines.
 
-Puerto serie (COM) o RS232
+
+1.2 Puerto serie (COM) o RS232
+
+<img src="https://sgcdn.startech.com/005329/media/products/gallery_large/ICUSB232SM3.C.jpg" alt="conector PS/2" width="200"/>
+
+
 Solo permite transmitir información bit a bit de forma secuencial, o sea, un bit cada intervalo de tiempo. Este puerto se usaba para conectar terminales de impresoras y módems, incluso mouse. 
 Es un conector macho, y se compone de 9 pines en dos filas. Actualmente ha sido extensamente reemplazado por el puerto USB.
 
 
-FireWire o IEEE 1394
+## FireWire o IEEE 1394
+
+<img src="https://www.cmple.com/content/images/thumbs/firewire-800-9-pin-to-firewire-400-4-pin-bilingual-cable-6-feet-black_NID0008429.jpeg" alt="conector PS/2" width="200"/>
+
+
 Este conector es un estándar multiplataforma para la entrada y salida de datos en serie a gran velocidad. Permite conectar hasta 63 dispositivos en cadena, y es posible hacerlo en caliente (esto es, sin necesidad de reiniciar el sistema). Sustituido actualmente por usb 2.0 y 3.0
 
-USB o Universal Serial Bus
+
+## USB o Universal Serial Bus
+
+
+<img src="https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/82b2f2db-3a3f-4641-a4e9-ba1b8e20dddc.jpg._CB303372833_.jpg" alt="conector PS/2" width="200"/>
+
+
 Este conector es plug & play, por lo que nos permite conectar el dispositivo teniendo la computadora encendida; luego de hacerlo, este es reconocido e instalado. 
 Suministra alimentación al periférico y, en algunos casos, no es necesario instalar drivers. Existen tres versiones de este puerto, cada una con diferentes velocidades máximas de transmisión: 
 USB 1.1 con 12 Mbps, 
@@ -25,17 +40,21 @@ USB amarillos: indican que se pueden cargar los dispositivos aun con el pc apaga
 
 
 
-Puerto paralelo (LPT1)
+## Puerto paralelo (LPT1)
+
+<img src="http://1.bp.blogspot.com/__EGIxB4kwi8/S7vHrvUFUBI/AAAAAAAAAAk/n_h9Z6slflw/s320/jj.jpg" alt="conector PS/2" width="200"/>
+
+
 También llamado puerto de impresión, ya que su uso más extendido ha sido el de conectar antiguamente la impresora a la PC. Asimismo, se lo ha utilizado para unidades removibles, como ZIP, escáneres y cámaras web, entre otros. 
 Su principal característica es que los bits de datos viajan en paralelo, enviando un paquete de 1 byte a la vez. Es un conector hembra con 25 pines agrupados en dos hileras. Es de color rosa
 
 
-Puerto juegos Joystick
-
-Usado antiguamente para conectar un mando de juegos / joystick
+## Mini-Jack
 
 
-Mini-Jack
+<img src="https://img.pccomponentes.com/articles/4/41761/cable-audio-minijack-3-5mm-macho-hembra-1-5m.jpg" alt="conector PS/2" width="200"/>
+
+
 También conocidos como Plug o TRS, los de tamaño “mini” son conectores de 3.5 milímetros, y son los más utilizados. También se encuentran en tamaño grande de 6.3mm y “micro” plug de 2.5mm.
 Salida de audio analógica (color verde), 
 Entrada de audio analógica (color azul) y 
@@ -45,16 +64,23 @@ Salida para los 2 altavoces traseros (color negro)
 Salida para el altavoz central y el subwoofer (color naranja).
 
 
-Conectores S/PDIF
+## Conectores S/PDIF
 Sirven para transferir audio, la mayoría de dispositivos modernos cuentan con él, puede ser la conexión con cable coaxial o con un cable de fibra óptica, bastante más caro.
 
 
+<img src="http://2.bp.blogspot.com/-DzEd-mehuPM/UPavvgG1XxI/AAAAAAAAJu8/AR2UpFVHgrg/s1600/toslink_digital_optical_audio_cable_3m___cable_optico.jpg" width="200"/>
 
-VGA o Video Graphics Array
+
+## VGA o Video Graphics Array
 Sirve para conectar el monitor a la computadora. Está conformado por tres hileras con 5 pines cada una, es decir, 15 en total.
 Es de color azul. 
 
-DVI o interfaz visual digital
+<img src="http://www.dcomponline.com.au/images/CABLE-%20VGA%20M-M%201.8M.jpg" width="200"/>
+
+
+## DVI o interfaz visual digital
+
+<img src="http://www.dcomponline.com.au/images/0108072.jpg" width="200"/>
 
 Es un conector de video diseñado para maximizar la calidad visual de los monitores digitales, sustituto del puerto VGA. Usado en sistemas antiguos o para 144Hz a 1080p
 Es semi-rectangular hembra, con 24 a 29 terminales, las cuales envían las señales referentes a los gráficos desde la PC hasta una pantalla.
@@ -62,15 +88,22 @@ DVI-D – Video digital
 DVI-A – Resolución analógica
 DVI-I – Integrado / Analógica y Digital
 
-Conector RCA
+## Conector RCA
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Composite-cables.jpg/1200px-Composite-cables.jpg" width="200"/>
+
 Se usa específicamente para señales de audio y video de baja calidad.
 
 
-Puerto S-Video
+## Puerto S-Video
+<img src="https://goconnect-it.com/wp-content/uploads/2015/07/svideo-cable.jpg" width="200"/>
+
+
 Se encarga de enviar las señales correspondientes a los gráficos desde la PC hasta una pantalla (muchas placas de video antiguas tenían estos conectores).
 
 
-Conector HDMI
+## Conector HDMI
+<img src="https://i2.wp.com/tethertalk.com/wordpress/wp-content/uploads/2013/10/HDMI-1-500x301.jpg?resize=500%2C301" width="200"/>
+
 Cable para proveer de una salida de audio y video en alta definición.
 HDMI: Este conector solo soporta video, aunque dispone de compatibilidad con el control remoto de dispositivos de audio mediante la tecnología CEC. 
 El HDMI 2.0 únicamente puede transmitir audio y video, no tiene compatibilidad con datos. La versión 2.0 de este conector, la más moderna, tiene un ancho de banda máximo de 18Gbps. Respecto a la resolución, soporta hasta 4K @ 50/60Hz y admite video 3D.
