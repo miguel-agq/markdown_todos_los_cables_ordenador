@@ -10,7 +10,7 @@ El motherboard dispone de dos puertos de este tipo, que se emplean para conectar
 
 1.2 Puerto serie (COM) o RS232
 
-<img src="https://sgcdn.startech.com/005329/media/products/gallery_large/ICUSB232SM3.C.jpg" alt="conector PS/2" width="200"/>
+![alt Conector COM][com]
 
 
 Solo permite transmitir información bit a bit de forma secuencial, o sea, un bit cada intervalo de tiempo. Este puerto se usaba para conectar terminales de impresoras y módems, incluso mouse. 
@@ -19,7 +19,8 @@ Es un conector macho, y se compone de 9 pines en dos filas. Actualmente ha sido 
 
 ## FireWire o IEEE 1394
 
-<img src="https://www.cmple.com/content/images/thumbs/firewire-800-9-pin-to-firewire-400-4-pin-bilingual-cable-6-feet-black_NID0008429.jpeg" alt="conector PS/2" width="200"/>
+![alt Conector FireWire][firewire]
+
 
 
 Este conector es un estándar multiplataforma para la entrada y salida de datos en serie a gran velocidad. Permite conectar hasta 63 dispositivos en cadena, y es posible hacerlo en caliente (esto es, sin necesidad de reiniciar el sistema). Sustituido actualmente por usb 2.0 y 3.0
@@ -28,7 +29,7 @@ Este conector es un estándar multiplataforma para la entrada y salida de datos 
 ## USB o Universal Serial Bus
 
 
-<img src="https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/82b2f2db-3a3f-4641-a4e9-ba1b8e20dddc.jpg._CB303372833_.jpg" alt="conector PS/2" width="200"/>
+![alt Conector USB][usb]
 
 
 Este conector es plug & play, por lo que nos permite conectar el dispositivo teniendo la computadora encendida; luego de hacerlo, este es reconocido e instalado. 
@@ -43,7 +44,7 @@ USB amarillos: indican que se pueden cargar los dispositivos aun con el pc apaga
 
 ## Puerto paralelo (LPT1)
 
-<img src="http://1.bp.blogspot.com/__EGIxB4kwi8/S7vHrvUFUBI/AAAAAAAAAAk/n_h9Z6slflw/s320/jj.jpg" alt="conector PS/2" width="200"/>
+![alt Conector Paralelo][paralelo]
 
 
 También llamado puerto de impresión, ya que su uso más extendido ha sido el de conectar antiguamente la impresora a la PC. Asimismo, se lo ha utilizado para unidades removibles, como ZIP, escáneres y cámaras web, entre otros. 
@@ -53,7 +54,7 @@ Su principal característica es que los bits de datos viajan en paralelo, envian
 ## Mini-Jack
 
 
-<img src="https://img.pccomponentes.com/articles/4/41761/cable-audio-minijack-3-5mm-macho-hembra-1-5m.jpg" alt="conector PS/2" width="200"/>
+![alt Conector Mini-Jack][mini-jack]
 
 
 También conocidos como Plug o TRS, los de tamaño “mini” son conectores de 3.5 milímetros, y son los más utilizados. También se encuentran en tamaño grande de 6.3mm y “micro” plug de 2.5mm.
@@ -69,7 +70,7 @@ Salida para el altavoz central y el subwoofer (color naranja).
 Sirven para transferir audio, la mayoría de dispositivos modernos cuentan con él, puede ser la conexión con cable coaxial o con un cable de fibra óptica, bastante más caro.
 
 
-<img src="http://2.bp.blogspot.com/-DzEd-mehuPM/UPavvgG1XxI/AAAAAAAAJu8/AR2UpFVHgrg/s1600/toslink_digital_optical_audio_cable_3m___cable_optico.jpg" width="200"/>
+![alt Conector S/PDIF][SPDIF]
 
 
 ## VGA o Video Graphics Array
@@ -81,7 +82,7 @@ Es de color azul.
 
 ## DVI o interfaz visual digital
 
-<img src="http://www.dcomponline.com.au/images/0108072.jpg" width="200"/>
+![alt Conector DVI][DVI]
 
 Es un conector de video diseñado para maximizar la calidad visual de los monitores digitales, sustituto del puerto VGA. Usado en sistemas antiguos o para 144Hz a 1080p
 Es semi-rectangular hembra, con 24 a 29 terminales, las cuales envían las señales referentes a los gráficos desde la PC hasta una pantalla.
@@ -90,20 +91,19 @@ DVI-A – Resolución analógica
 DVI-I – Integrado / Analógica y Digital
 
 ## Conector RCA
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Composite-cables.jpg/1200px-Composite-cables.jpg" width="200"/>
+![alt Conector RCA][RCA]
 
 Se usa específicamente para señales de audio y video de baja calidad.
 
 
 ## Puerto S-Video
-<img src="https://goconnect-it.com/wp-content/uploads/2015/07/svideo-cable.jpg" width="200"/>
-
+![alt Conector S-Video][svideo]
 
 Se encarga de enviar las señales correspondientes a los gráficos desde la PC hasta una pantalla (muchas placas de video antiguas tenían estos conectores).
 
 
 ## Conector HDMI
-<img src="https://i2.wp.com/tethertalk.com/wordpress/wp-content/uploads/2013/10/HDMI-1-500x301.jpg?resize=500%2C301" width="200"/>
+![alt Conector HDMI][hdmi]
 
 Cable para proveer de una salida de audio y video en alta definición.
 HDMI: Este conector solo soporta video, aunque dispone de compatibilidad con el control remoto de dispositivos de audio mediante la tecnología CEC. 
@@ -151,3 +151,15 @@ Este conector pertenece a la fuente de alimentación y no a la placa base.
 
 
 [ps2]: ps2.jpg "Conector PS/2"
+[com]: com.jpg "Conector COM"
+[firewire]: firewire.jpg "Conector FireWire"
+[usb]: usb.jpg "Conector USB"
+[mini-jack]: mini-jack.jpg "Conector Mini-Jack"
+[SPDIF]: SPDIF.jpg "Conector S/PDIF"
+[paralelo]: paralelo.jpg "Conector Paralelo"
+[dvi]: dvi.jpg "Conector DVI"
+[svideo]: svideo.jpg "Conector S-Video"
+[hdmi]: hdmi.jpg "Conector HDMI"
+[RCA]: RCA.jpg "Conector RCA"
+[RCA]: RCA.jpg "Conector RCA"
+
