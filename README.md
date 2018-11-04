@@ -1,6 +1,6 @@
 # Tipo de cables
 
-1.  **Conector PS/2**
+1.  ## Conector PS/2
 
 ![alt Conector PS/2][ps2]
 
