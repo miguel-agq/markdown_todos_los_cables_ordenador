@@ -2,7 +2,8 @@
 
 1.1  Conector PS/2
 
-<img src="https://ae01.alicdn.com/kf/HTB13CLyHVXXXXb9XFXXq6xXFXXX0/221459994/HTB13CLyHVXXXXb9XFXXq6xXFXXX0.jpg" alt="conector PS/2" width="200"/>
+![alt Conector PS/2][ps2]
+
 
 El motherboard dispone de dos puertos de este tipo, que se emplean para conectar el mouse (conector verde) y el teclado (conector violeta). Ambos son hembra, y cada uno cuenta con 6 pines.
 
@@ -149,3 +150,4 @@ Este conector pertenece a la fuente de alimentación y no a la placa base.
 
 
 
+[ps2]: ps2.jpg "Conector PS/2"
