@@ -77,7 +77,7 @@ Sirven para transferir audio, la mayoría de dispositivos modernos cuentan con �
 Sirve para conectar el monitor a la computadora. Está conformado por tres hileras con 5 pines cada una, es decir, 15 en total.
 Es de color azul. 
 
-<img src="http://www.dcomponline.com.au/images/CABLE-%20VGA%20M-M%201.8M.jpg" width="200"/>
+![alt Conector VGA][vga]
 
 
 ## DVI o interfaz visual digital
@@ -111,10 +111,15 @@ El HDMI 2.0 únicamente puede transmitir audio y video, no tiene compatibilidad 
 
 
 Thunderbolt 1 y 2
+![alt Conector Mini Display][minidisplay]
+
 Las versiones anteriores de Thunderbolt 3, Thunderbolt 2 y Thunderbolt, se basaban en el puerto Mini DisplayPort y ofrecían unas velocidades de transferencia máximas de 20Gbps y 10 Gbps, respectivamente. En su nueva versión Intel ha decidido abandonar el puerto Mini Display Port y basarse en el puerto USB-C, este puerto ofrece unas velocidades impresionantes sin necesidad de alimentación: en las distancias cortas 40Gbps y en las largas 20 Gbps, si queremos obtener los 40Gbps en larga distancia necesitaremos alimentar el dispositivo.
 
 
 Thunderbolt 3 (USB-C)
+
+![alt Conector Thunderbolt][thunderbolt]
+
 Intel anunció Thunderbolt 3, como sustituto del USB tradicional y que usaría el mismo tipo de puerto que el USB-C. ¿Qué quiere decir esto? Todo periférico y cable que funcione en Thunderbolt 3, también lo hará en el USB-C. Algo muy importante, ya que, de una vez por todas Apple tiene el mismo estándar en sus ordenadores que él resto de compañías.
 Características:
 Conexión simultánea a múltiples dispositivos
@@ -126,23 +131,33 @@ Este conector ofrece un ancho de banda de 40Gbps simétricos y separados, ya que
 
 
 USB-C
+![alt tabla][peripheral-speeds]
+
+
 También llamado USB 3.1 Type-C, parece ser el conector del futuro
 
 
 
 DisplayPort (DP)
+
+![alt Conector DisplayPort][displayport]
+
 DisplayPort para 144Hz y hasta 4K: soporta video y audio
 La versión 1.4 de este conector, la más moderna, dispone de un ancho de banda de 32.4Gbps. La resolución máxima que soporta es de 8K UHD @ 60Hz y 4K UHD @ 120Hz. Permite conectar más de un monitor, soportando os pantallas 4K UHD @ 60Hz y hasta cuatro pantallas WQXGA @ 60Hz..7 A 10 Gbit/s un Blu-ray puede ser transferido en menos de 30 segundos
 
 
 
 Conector Ethernet
+![alt Conector RJ45][ethernet]
 
 Es un estándar de redes de área local para computadoras con acceso al medio por contienda CSMA/CD. 
 Define las características de cableado y señalización del nivel físico, y los formatos de tramas de datos del nivel de enlace de datos, correspondiente al modelo OSI. 
 El conector más común es el RJ45 con cuatro pares de hilos trenzados, que se usa para conectar redes de área local. Emplea los cables UTP y STP.
 
 eSATA
+![alt Conector eSata][esata]
+
+
 Para conectar unidades externas, como discos rígidos.
 
 Conector cable corriente (fuente de alimentación)
@@ -161,5 +176,12 @@ Este conector pertenece a la fuente de alimentación y no a la placa base.
 [svideo]: svideo.jpg "Conector S-Video"
 [hdmi]: hdmi.jpg "Conector HDMI"
 [RCA]: RCA.jpg "Conector RCA"
-[RCA]: RCA.jpg "Conector RCA"
+[minidisplay]: minidisplay.jpg "Conector Mini Display"
+[thunderbolt]: thunderbolt.jpg "Conector Thunderbolt"
+[vga]: vga.jpg "Conector VGA"
+[tabla]: peripheral-speeds.jpg "tabla"
+[displayport]: displayport.jpg "Conector DisplayPort"
+[esata]: eSata.jpg "Conector eSata"
+[ethernet]: ethernet.jpg "Conector RJ45"
+
 
