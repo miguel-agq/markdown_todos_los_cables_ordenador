@@ -131,7 +131,7 @@ Este conector ofrece un ancho de banda de 40Gbps simétricos y separados, ya que
 
 
 USB-C
-![alt tabla][peripheral-speeds]
+![alt tabla][tabla]
 
 
 También llamado USB 3.1 Type-C, parece ser el conector del futuro
