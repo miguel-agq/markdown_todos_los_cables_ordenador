@@ -179,7 +179,7 @@ Este conector pertenece a la fuente de alimentación y no a la placa base.
 [minidisplay]: minidisplay.jpg "Conector Mini Display"
 [thunderbolt]: thunderbolt.jpg "Conector Thunderbolt"
 [vga]: vga.jpg "Conector VGA"
-[tabla]: peripheral-speeds.jpg "tabla"
+[tabla]: peripheral-speeds.png "tabla"
 [displayport]: displayport.jpg "Conector DisplayPort"
 [esata]: eSata.jpg "Conector eSata"
 [ethernet]: ethernet.jpg "Conector RJ45"
