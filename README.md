@@ -131,8 +131,25 @@ Este conector ofrece un ancho de banda de 40Gbps simétricos y separados, ya que
 
 
 ## 14. USB-C
-![alt tabla][tabla]
 
+|-------|------:|-----:|-----
+|FireWire(IEEE 1394) 200   | 196.608 Mbit/s  | 24.576 MB/s|1995
+|FireWire(IEEE 1394) 400| 393.216 Mbit/s|49.152 MB/s |1995
+|USB high speed|480 Mbit/s| 60 MB/s|2000
+|FireWire(IEEE 1394b) 800|786.432 Mbit/s|98.304 MB/s|2002
+|Fibre Channel 1 Gb SCSI|1 062.5 Mbit/s|100 MB/s|-
+|FireWire (IEEE 1394b)1600|1.573 Gbit/s|196.6 MB/s|2007
+|Fibre Channel 2 Gb SCSI|2125 Mbit/s|200 MB/s|-
+|eSATA(SATA 300)|3 Gbit/s|375 MB/s|2004
+|USB SuperSpeed|5 Gbit/s|624 MB/s|2010
+|eSATA(600)|6 Gbit/s|750 MB/s|2011
+|USB SuperSpeed+|10 Gbit/s|1250 MB/s|2013
+|Thunderbolt|2 x 10 Gbit/s| 2 x 1250 MB/s|2011
+|External PCI Express 2.0 x4| 16 Gbit/s|2000 MB/s|-
+|Thunderbolt 2|20 Gbit/s|2500 MB/s|2013
+|External PCI Express 2.0 x8|32 Gbit/s|4000 MB/s|-
+|Thunderbolt|40 Gbit/s|5000 MB/s|2014
+|External PCI Express 2.0 x16|64 Gbit/s|8000 MB/s|-
 
 También llamado USB 3.1 Type-C, parece ser el conector del futuro
 
