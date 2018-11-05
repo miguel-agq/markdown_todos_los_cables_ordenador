@@ -132,6 +132,7 @@ Este conector ofrece un ancho de banda de 40Gbps simétricos y separados, ya que
 
 ## 14. USB-C
 
+| FireWire(IEEE 1394) 200   | 196.608 Mbit/s  | 24.576 MB/s | 1995
 | --- | ---: | ---: | ---
 | FireWire(IEEE 1394) 200   | 196.608 Mbit/s  | 24.576 MB/s | 1995
 | FireWire(IEEE 1394) 400 | 393.216 Mbit/s|49.152 MB/s | 1995
